@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="132480" started-at="2019-04-24T18:28:47 IST" finished-at="2019-04-24T18:30:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="132480" started-at="2019-04-24T18:28:47 IST" finished-at="2019-04-24T18:30:59 IST">
+      <class name="com.BSC.framework.VFPages">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.BSC.framework.VFPages@49ec71f8]" name="startTest" is-config="true" duration-ms="18575" started-at="2019-04-24T18:28:47 IST" finished-at="2019-04-24T18:29:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="loginSalesforce()[pri:0, instance:com.BSC.framework.VFPages@49ec71f8]" name="loginSalesforce" duration-ms="50288" started-at="2019-04-24T18:29:05 IST" finished-at="2019-04-24T18:29:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSalesforce -->
+        <test-method status="PASS" signature="searchAndSelect()[pri:0, instance:com.BSC.framework.VFPages@49ec71f8]" name="searchAndSelect" duration-ms="46817" started-at="2019-04-24T18:29:56 IST" depends-on-methods="com.BSC.framework.VFPages.loginSalesforce" finished-at="2019-04-24T18:30:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndSelect -->
+        <test-method status="PASS" signature="selectAndValidateAcctPerformance()[pri:0, instance:com.BSC.framework.VFPages@49ec71f8]" name="selectAndValidateAcctPerformance" duration-ms="13097" started-at="2019-04-24T18:30:43 IST" depends-on-methods="com.BSC.framework.VFPages.searchAndSelect" finished-at="2019-04-24T18:30:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAndValidateAcctPerformance -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.BSC.framework.VFPages@49ec71f8]" name="endTest" is-config="true" duration-ms="3577" started-at="2019-04-24T18:30:56 IST" finished-at="2019-04-24T18:30:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.BSC.framework.VFPages -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

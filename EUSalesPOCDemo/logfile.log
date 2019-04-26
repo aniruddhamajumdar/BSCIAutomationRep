@@ -1,0 +1,601 @@
+2019-02-08 18:59:52,409 INFO  [Log] Chrome browser started 
+2019-02-08 18:59:53,241 INFO  [Log] No of rows of data for test case sheet:Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml8 
+2019-02-08 18:59:53,248 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlActionKeywords 
+2019-02-08 18:59:53,249 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 18:59:53,249 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlpayloadProcess 
+2019-02-08 18:59:53,249 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlCycleCountTab 
+2019-02-08 18:59:53,249 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlVarianceReport 
+2019-02-08 18:59:53,249 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 18:59:53,249 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 18:59:53,250 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 18:59:53,250 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 18:59:53,250 INFO  [Log] **************************************************************************************** 
+2019-02-08 18:59:53,250 INFO  [Log] **************************************************************************************** 
+2019-02-08 18:59:53,250 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-08 18:59:53,250 INFO  [Log] **************************************************************************************** 
+2019-02-08 18:59:53,250 INFO  [Log] **************************************************************************************** 
+2019-02-08 18:59:53,300 INFO  [Log] Test Case sheet name is null 
+2019-02-08 18:59:53,300 INFO  [Log] Test Case sheet name is Sheet1 
+2019-02-08 18:59:53,300 INFO  [Log] Test Case sheet name is Sheet3 
+2019-02-08 18:59:53,300 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-08 18:59:53,300 INFO  [Log] X 
+2019-02-08 18:59:53,300 INFO  [Log] X 
+2019-02-08 18:59:53,300 INFO  [Log] X 
+2019-02-08 18:59:53,301 INFO  [Log] X 
+2019-02-08 19:02:26,720 INFO  [Log] Chrome browser started 
+2019-02-08 19:02:54,255 INFO  [Log] No of rows of data for test case sheet:Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml8 
+2019-02-08 19:02:54,308 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlActionKeywords 
+2019-02-08 19:02:54,308 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 19:02:54,308 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlpayloadProcess 
+2019-02-08 19:02:54,308 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlCycleCountTab 
+2019-02-08 19:02:54,308 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlVarianceReport 
+2019-02-08 19:02:54,308 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:02:54,324 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 19:02:54,324 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:02:54,324 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:03:01,982 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:03:01,982 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:03:01,982 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-08 19:03:01,982 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:03:01,982 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:16:05,454 INFO  [Log] Chrome browser started 
+2019-02-08 19:20:35,260 INFO  [Log] Chrome browser started 
+2019-02-08 19:20:49,066 INFO  [Log] No of rows of data for test case sheet:Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml8 
+2019-02-08 19:20:49,099 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlActionKeywords 
+2019-02-08 19:20:49,099 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 19:20:49,099 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlpayloadProcess 
+2019-02-08 19:20:49,115 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlCycleCountTab 
+2019-02-08 19:20:49,115 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlVarianceReport 
+2019-02-08 19:20:49,115 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:20:49,115 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 19:20:49,115 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:20:49,115 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:20:50,663 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:20:50,679 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:20:50,679 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-08 19:20:50,679 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:20:50,694 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:21:51,094 INFO  [Log] Navigating to URL 
+2019-02-08 19:32:39,158 INFO  [Log] Chrome browser started 
+2019-02-08 19:32:39,789 INFO  [Log] No of rows of data for test case sheet:Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml8 
+2019-02-08 19:32:39,794 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlActionKeywords 
+2019-02-08 19:32:39,794 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 19:32:39,795 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlpayloadProcess 
+2019-02-08 19:32:39,795 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlCycleCountTab 
+2019-02-08 19:32:39,796 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlVarianceReport 
+2019-02-08 19:32:39,796 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:32:39,796 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlABC 
+2019-02-08 19:32:39,796 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:32:39,796 INFO  [Log] Cell data for given test case sheet for Keywords column is :Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xmlabc 
+2019-02-08 19:32:39,797 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:32:39,797 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:32:39,797 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-08 19:32:39,797 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:32:39,797 INFO  [Log] **************************************************************************************** 
+2019-02-08 19:32:39,797 INFO  [Log] Navigating to URL 
+2019-02-08 19:33:25,460 INFO  [Log] Test Case sheet name is null 
+2019-02-08 19:33:25,460 INFO  [Log] Test Case sheet name is Sheet1 
+2019-02-08 19:33:25,460 INFO  [Log] Test Case sheet name is Sheet3 
+2019-02-08 19:33:25,460 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-08 19:33:25,460 INFO  [Log] X 
+2019-02-08 19:33:25,460 INFO  [Log] X 
+2019-02-08 19:33:25,460 INFO  [Log] X 
+2019-02-08 19:33:25,460 INFO  [Log] X 
+2019-02-10 23:59:05,125 INFO  [Log] Chrome browser started 
+2019-02-11 00:06:32,783 INFO  [Log] Chrome browser started 
+2019-02-11 00:06:42,070 INFO  [Log] Navigating to URL 
+2019-02-11 00:08:08,155 INFO  [Log] Navigating to URL 
+2019-02-11 00:09:39,758 INFO  [Log] Navigating to URL 
+2019-02-11 00:20:58,650 INFO  [Log] Chrome browser started 
+2019-02-11 00:21:07,159 INFO  [Log] Navigating to URL 
+2019-02-11 00:21:59,603 INFO  [Log] Navigating to URL 
+2019-02-11 00:22:31,538 INFO  [Log] Navigating to URL 
+2019-02-11 00:26:30,978 INFO  [Log] Chrome browser started 
+2019-02-11 00:26:35,609 INFO  [Log] Navigating to URL 
+2019-02-11 00:27:23,088 INFO  [Log] Navigating to URL 
+2019-02-11 00:27:50,478 INFO  [Log] Navigating to URL 
+2019-02-11 00:38:19,846 INFO  [Log] Chrome browser started 
+2019-02-11 00:45:22,670 INFO  [Log] Navigating to URL 
+2019-02-11 00:46:11,292 INFO  [Log] Navigating to URL 
+2019-02-11 00:46:40,301 INFO  [Log] Navigating to URL 
+2019-02-11 00:52:10,537 INFO  [Log] Navigating to URL 
+2019-02-11 00:52:10,776 INFO  [Log] Not able to navigate --- invalid session id
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'KDC1-L-43W7NN2', ip: '192.168.225.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\IPSITA~1.ROY\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57429}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 2ad2f996b2f16787a9289721ead9770c 
+2019-02-11 00:54:25,051 INFO  [Log] Chrome browser started 
+2019-02-11 00:54:27,572 INFO  [Log] Navigating to URL 
+2019-02-11 00:55:13,530 INFO  [Log] Navigating to URL 
+2019-02-11 00:55:47,063 INFO  [Log] Navigating to URL 
+2019-02-11 01:06:53,514 INFO  [Log] Chrome browser started 
+2019-02-11 01:06:57,923 INFO  [Log] Navigating to URL 
+2019-02-11 01:07:41,671 INFO  [Log] Navigating to URL 
+2019-02-11 01:08:08,956 INFO  [Log] Navigating to URL 
+2019-02-11 01:12:30,481 INFO  [Log] Navigating to URL 
+2019-02-11 01:12:30,513 INFO  [Log] Not able to navigate --- invalid session id
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'KDC1-L-43W7NN2', ip: '192.168.225.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\IPSITA~1.ROY\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61154}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 7323c1f432c9b84c57d29e941de21e97 
+2019-02-11 01:19:06,905 INFO  [Log] Chrome browser started 
+2019-02-11 01:19:10,413 INFO  [Log] Navigating to URL 
+2019-02-11 01:20:01,809 INFO  [Log] Navigating to URL 
+2019-02-11 01:21:15,891 INFO  [Log] Navigating to URL 
+2019-02-11 01:25:12,411 INFO  [Log] Navigating to URL 
+2019-02-11 02:06:11,703 INFO  [Log] Chrome browser started 
+2019-02-11 02:06:11,866 INFO  [Log] Navigating to URL 
+2019-02-11 02:06:59,510 INFO  [Log] Navigating to URL 
+2019-02-11 02:07:21,221 INFO  [Log] Navigating to URL 
+2019-02-11 08:43:39,654 INFO  [Log] Chrome browser started 
+2019-02-11 08:43:39,846 INFO  [Log] Navigating to URL 
+2019-02-11 08:44:34,677 INFO  [Log] Chrome browser started 
+2019-02-11 08:44:34,851 INFO  [Log] Navigating to URL 
+2019-02-11 08:45:39,960 INFO  [Log] Navigating to URL 
+2019-02-11 08:46:10,031 INFO  [Log] Navigating to URL 
+2019-02-11 08:49:48,551 INFO  [Log] Navigating to URL 
+2019-02-11 09:28:01,149 INFO  [Log] Chrome browser started 
+2019-02-11 09:28:01,381 INFO  [Log] Navigating to URL 
+2019-02-11 09:42:50,830 INFO  [Log] Chrome browser started 
+2019-02-11 09:42:51,052 INFO  [Log] Navigating to URL 
+2019-02-11 09:43:44,308 INFO  [Log] Navigating to URL 
+2019-02-11 09:44:09,446 INFO  [Log] Navigating to URL 
+2019-02-11 09:47:40,710 INFO  [Log] Navigating to URL 
+2019-02-18 15:23:58,343 INFO  [Log] Chrome browser started 
+2019-02-18 15:23:58,571 INFO  [Log] Navigating to URL 
+2019-02-19 17:56:24,042 INFO  [Log] Chrome browser started 
+2019-02-19 17:56:24,287 INFO  [Log] Navigating to URL 
+2019-02-19 17:57:11,955 INFO  [Log] Navigating to URL 
+2019-02-21 21:36:41,176 INFO  [Log] Chrome browser started 
+2019-02-21 21:37:17,228 INFO  [Log] Navigating to URL 
+2019-02-21 22:25:44,083 INFO  [Log] Chrome browser started 
+2019-02-21 22:26:06,508 INFO  [Log] Navigating to URL 
+2019-02-21 22:30:16,639 INFO  [Log] Chrome browser started 
+2019-02-21 22:30:53,880 INFO  [Log] Navigating to URL 
+2019-02-21 22:39:00,819 INFO  [Log] Chrome browser started 
+2019-02-21 22:39:27,498 INFO  [Log] Navigating to URL 
+2019-02-21 22:43:41,084 INFO  [Log] Chrome browser started 
+2019-02-21 22:43:54,267 INFO  [Log] Navigating to URL 
+2019-02-21 22:53:02,556 INFO  [Log] Chrome browser started 
+2019-02-21 22:53:20,414 INFO  [Log] Navigating to URL 
+2019-02-21 22:56:39,235 INFO  [Log] Chrome browser started 
+2019-02-21 22:56:50,312 INFO  [Log] Navigating to URL 
+2019-02-21 22:58:57,247 INFO  [Log] Chrome browser started 
+2019-02-21 22:59:09,584 INFO  [Log] Navigating to URL 
+2019-02-21 23:22:56,869 INFO  [Log] Chrome browser started 
+2019-02-21 23:23:17,675 INFO  [Log] Navigating to URL 
+2019-02-25 14:03:39,233 INFO  [Log] Chrome browser started 
+2019-02-25 14:03:39,506 INFO  [Log] Navigating to URL 
+2019-02-25 14:04:34,119 INFO  [Log] Navigating to URL 
+2019-02-25 14:25:01,440 INFO  [Log] Chrome browser started 
+2019-02-25 14:25:01,745 INFO  [Log] Navigating to URL 
+2019-02-25 14:25:54,662 INFO  [Log] Navigating to URL 
+2019-02-27 08:20:13,806 INFO  [Log] Chrome browser started 
+2019-02-27 08:20:14,403 INFO  [Log] Navigating to URL 
+2019-02-27 08:21:34,907 INFO  [Log] Navigating to URL 
+2019-02-27 08:25:11,844 INFO  [Log] Navigating to URL 
+2019-02-27 08:34:12,950 INFO  [Log] Chrome browser started 
+2019-02-27 08:34:13,189 INFO  [Log] Navigating to URL 
+2019-02-27 08:34:17,935 INFO  [Log] Not able to navigate --- no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'KDC1-L-43W7NN2', ip: '192.168.225.34', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\IPSITA~1.ROY\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61514}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 9ef61cf4077e84f1677e63a8733c5926 
+2019-02-27 08:34:40,884 INFO  [Log] Chrome browser started 
+2019-02-27 08:34:41,160 INFO  [Log] Navigating to URL 
+2019-02-27 08:35:54,081 INFO  [Log] Navigating to URL 
+2019-02-27 09:20:48,131 INFO  [Log] Chrome browser started 
+2019-02-27 09:20:48,419 INFO  [Log] Navigating to URL 
+2019-02-27 09:21:42,879 INFO  [Log] Navigating to URL 
+2019-02-27 09:25:48,303 INFO  [Log] Navigating to URL 
+2019-02-28 15:47:16,678 INFO  [Log] Chrome browser started 
+2019-02-28 15:47:24,898 INFO  [Log] Navigating to URL 
+2019-02-28 15:49:45,114 INFO  [Log] Navigating to URL 
+2019-02-28 16:01:29,902 INFO  [Log] Chrome browser started 
+2019-02-28 16:01:38,077 INFO  [Log] Navigating to URL 
+2019-02-28 16:04:19,700 INFO  [Log] Navigating to URL 
+2019-02-28 16:23:56,334 INFO  [Log] Chrome browser started 
+2019-02-28 16:24:04,539 INFO  [Log] Navigating to URL 
+2019-02-28 16:26:43,981 INFO  [Log] Chrome browser started 
+2019-02-28 16:26:52,182 INFO  [Log] Navigating to URL 
+2019-02-28 16:29:58,914 INFO  [Log] Chrome browser started 
+2019-02-28 16:30:07,099 INFO  [Log] Navigating to URL 
+2019-02-28 16:30:53,275 INFO  [Log] Navigating to URL 
+2019-02-28 16:34:39,307 INFO  [Log] Chrome browser started 
+2019-02-28 16:34:47,568 INFO  [Log] Navigating to URL 
+2019-02-28 16:35:43,739 INFO  [Log] Navigating to URL 
+2019-02-28 16:39:59,785 INFO  [Log] Navigating to URL 
+2019-02-28 16:53:09,151 INFO  [Log] Chrome browser started 
+2019-02-28 16:53:17,330 INFO  [Log] Navigating to URL 
+2019-02-28 16:54:16,622 INFO  [Log] Navigating to URL 
+2019-02-28 16:56:56,331 INFO  [Log] Chrome browser started 
+2019-02-28 16:57:04,583 INFO  [Log] Navigating to URL 
+2019-02-28 16:57:46,780 INFO  [Log] Navigating to URL 
+2019-02-28 16:58:29,273 INFO  [Log] Chrome browser started 
+2019-02-28 16:58:37,538 INFO  [Log] Navigating to URL 
+2019-02-28 16:59:34,107 INFO  [Log] Navigating to URL 
+2019-02-28 17:03:14,709 INFO  [Log] Chrome browser started 
+2019-02-28 17:03:22,947 INFO  [Log] Navigating to URL 
+2019-02-28 17:04:20,616 INFO  [Log] Navigating to URL 
+2019-02-28 17:08:43,140 INFO  [Log] Navigating to URL 
+2019-02-28 17:12:54,261 INFO  [Log] Chrome browser started 
+2019-02-28 17:13:02,498 INFO  [Log] Navigating to URL 
+2019-02-28 17:13:58,388 INFO  [Log] Navigating to URL 
+2019-02-28 17:22:30,566 INFO  [Log] Chrome browser started 
+2019-02-28 17:22:38,829 INFO  [Log] Navigating to URL 
+2019-02-28 17:23:33,033 INFO  [Log] Navigating to URL 
+2019-02-28 17:26:08,594 INFO  [Log] Navigating to URL 
+2019-02-28 17:26:14,632 INFO  [Log] Not able to navigate --- chrome not reachable
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'KDC1-L-43W7NN2', ip: '10.223.158.208', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\IPSITA~1.ROY\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60573}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 2de5e541b2e9e971d16f53008433a6c0 
+2019-02-28 17:28:29,405 INFO  [Log] Chrome browser started 
+2019-02-28 17:45:57,085 INFO  [Log] Chrome browser started 
+2019-02-28 17:46:05,538 INFO  [Log] Navigating to URL 
+2019-02-28 17:47:04,104 INFO  [Log] Navigating to URL 
+2019-02-28 17:52:13,557 INFO  [Log] Chrome browser started 
+2019-02-28 17:52:21,812 INFO  [Log] Navigating to URL 
+2019-02-28 17:53:16,611 INFO  [Log] Navigating to URL 
+2019-02-28 17:55:14,353 INFO  [Log] Navigating to URL 
+2019-02-28 17:56:08,030 INFO  [Log] Chrome browser started 
+2019-02-28 17:56:16,377 INFO  [Log] Navigating to URL 
+2019-02-28 17:57:13,053 INFO  [Log] Navigating to URL 
+2019-02-28 17:59:27,661 INFO  [Log] Navigating to URL 
+2019-02-28 17:59:51,168 INFO  [Log] Chrome browser started 
+2019-02-28 17:59:59,470 INFO  [Log] Navigating to URL 
+2019-02-28 18:00:48,776 INFO  [Log] Navigating to URL 
+2019-02-28 18:04:44,088 INFO  [Log] Navigating to URL 
+2019-02-28 18:23:57,391 INFO  [Log] Chrome browser started 
+2019-02-28 18:24:05,645 INFO  [Log] Navigating to URL 
+2019-02-28 18:24:54,718 INFO  [Log] Navigating to URL 
+2019-02-28 18:29:06,657 INFO  [Log] Navigating to URL 
+2019-02-28 19:28:08,960 INFO  [Log] Chrome browser started 
+2019-02-28 19:28:17,313 INFO  [Log] Navigating to URL 
+2019-02-28 19:29:11,909 INFO  [Log] Navigating to URL 
+2019-03-08 08:46:04,888 INFO  [Log] Chrome browser started 
+2019-03-08 08:46:13,138 INFO  [Log] Navigating to URL 
+2019-03-08 08:47:16,273 INFO  [Log] Navigating to URL 
+2019-03-08 08:52:19,591 INFO  [Log] Chrome browser started 
+2019-03-08 08:52:27,781 INFO  [Log] Navigating to URL 
+2019-03-08 08:53:26,720 INFO  [Log] Navigating to URL 
+2019-03-08 09:00:16,334 INFO  [Log] Chrome browser started 
+2019-03-08 09:00:24,517 INFO  [Log] Navigating to URL 
+2019-03-08 09:01:28,548 INFO  [Log] Chrome browser started 
+2019-03-08 09:01:36,721 INFO  [Log] Navigating to URL 
+2019-03-08 09:02:38,739 INFO  [Log] Navigating to URL 
+2019-03-08 15:39:23,323 INFO  [Log] Chrome browser started 
+2019-03-08 15:39:31,671 INFO  [Log] Navigating to URL 
+2019-03-08 15:40:23,080 INFO  [Log] Navigating to URL 
+2019-03-08 18:00:07,692 INFO  [Log] Chrome browser started 
+2019-03-08 18:00:07,877 INFO  [Log] Navigating to URL 
+2019-03-08 18:01:00,892 INFO  [Log] Navigating to URL 
+2019-03-08 18:12:26,981 INFO  [Log] Chrome browser started 
+2019-03-11 17:50:19,657 INFO  [Log] Chrome browser started 
+2019-03-11 17:50:31,814 INFO  [Log] Navigating to URL 
+2019-03-11 17:51:57,182 INFO  [Log] Navigating to URL 
+2019-03-11 17:59:31,871 INFO  [Log] Chrome browser started 
+2019-03-11 18:11:27,495 INFO  [Log] Navigating to URL 
+2019-03-11 18:12:38,019 INFO  [Log] Navigating to URL 
+2019-03-11 18:33:13,942 INFO  [Log] Chrome browser started 
+2019-03-11 18:33:17,716 INFO  [Log] Navigating to URL 
+2019-03-11 18:45:57,110 INFO  [Log] Navigating to URL 
+2019-03-11 19:03:36,093 INFO  [Log] Chrome browser started 
+2019-03-11 19:03:36,262 INFO  [Log] Navigating to URL 
+2019-03-11 19:04:32,494 INFO  [Log] Navigating to URL 
+2019-03-11 19:08:29,845 INFO  [Log] Navigating to URL 
+2019-03-11 19:17:20,877 INFO  [Log] Chrome browser started 
+2019-03-11 19:17:21,021 INFO  [Log] Navigating to URL 
+2019-03-11 19:18:16,732 INFO  [Log] Navigating to URL 
+2019-03-12 15:28:03,299 INFO  [Log] Chrome browser started 
+2019-03-12 15:37:13,784 INFO  [Log] Chrome browser started 
+2019-03-12 15:42:38,743 INFO  [Log] Chrome browser started 
+2019-03-12 15:44:50,001 INFO  [Log] Chrome browser started 
+2019-03-12 15:46:24,645 INFO  [Log] Chrome browser started 
+2019-03-12 15:49:02,508 INFO  [Log] Chrome browser started 
+2019-03-12 15:49:03,814 INFO  [Log] Navigating to URL 
+2019-03-12 16:37:22,186 INFO  [Log] Chrome browser started 
+2019-03-12 16:37:22,405 INFO  [Log] Navigating to URL 
+2019-03-12 18:57:33,397 INFO  [Log] Chrome browser started 
+2019-03-12 18:57:34,177 INFO  [Log] Navigating to URL 
+2019-03-12 18:58:24,523 INFO  [Log] Navigating to URL 
+2019-03-12 19:00:01,780 INFO  [Log] Chrome browser started 
+2019-03-12 19:00:01,977 INFO  [Log] Navigating to URL 
+2019-03-12 19:00:46,350 INFO  [Log] Navigating to URL 
+2019-03-12 19:05:32,267 INFO  [Log] Chrome browser started 
+2019-03-12 19:05:32,515 INFO  [Log] Navigating to URL 
+2019-03-12 19:21:56,830 INFO  [Log] Chrome browser started 
+2019-03-12 19:21:57,043 INFO  [Log] Navigating to URL 
+2019-03-12 19:22:41,485 INFO  [Log] Navigating to URL 
+2019-03-12 19:22:47,975 INFO  [Log] Not able to navigate --- unknown error: failed to change window state to normal, current state is maximized
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'KDC1B-D-D0TJX52', ip: '10.223.158.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ANIRUD~1.MAJ\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50712}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: e1fa4515def0959ca5e6ba4a4692da00 
+2019-03-12 19:24:01,208 INFO  [Log] Chrome browser started 
+2019-03-12 19:24:01,490 INFO  [Log] Navigating to URL 
+2019-03-12 19:25:09,312 INFO  [Log] Navigating to URL 
+2019-03-13 13:23:02,616 INFO  [Log] Chrome browser started 
+2019-03-13 13:23:03,395 INFO  [Log] Navigating to URL 
+2019-03-13 14:14:18,463 INFO  [Log] Chrome browser started 
+2019-03-13 14:14:18,657 INFO  [Log] Navigating to URL 
+2019-03-13 14:14:18,657 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:14:34,690 INFO  [Log] Navigating to URL 
+2019-03-13 14:14:34,690 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:15:53,583 INFO  [Log] Chrome browser started 
+2019-03-13 14:15:53,845 INFO  [Log] Navigating to URL 
+2019-03-13 14:15:53,845 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:16:09,860 INFO  [Log] Navigating to URL 
+2019-03-13 14:16:09,860 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:17:15,578 INFO  [Log] Chrome browser started 
+2019-03-13 14:17:15,926 INFO  [Log] Navigating to URL 
+2019-03-13 14:18:37,369 INFO  [Log] Chrome browser started 
+2019-03-13 14:18:37,600 INFO  [Log] Navigating to URL 
+2019-03-13 14:18:37,600 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:22:22,546 INFO  [Log] Chrome browser started 
+2019-03-13 14:22:22,828 INFO  [Log] Navigating to URL 
+2019-03-13 14:22:22,829 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:22:38,851 INFO  [Log] Navigating to URL 
+2019-03-13 14:22:38,851 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:26:06,553 INFO  [Log] Chrome browser started 
+2019-03-13 14:26:07,035 INFO  [Log] Navigating to URL 
+2019-03-13 14:26:07,035 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:27:52,408 INFO  [Log] Chrome browser started 
+2019-03-13 14:27:52,630 INFO  [Log] Navigating to URL 
+2019-03-13 14:27:52,631 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:38:50,546 INFO  [Log] Chrome browser started 
+2019-03-13 14:39:03,797 INFO  [Log] Navigating to URL 
+2019-03-13 14:39:03,797 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:44:45,799 INFO  [Log] Chrome browser started 
+2019-03-13 14:44:45,995 INFO  [Log] Navigating to URL 
+2019-03-13 14:50:11,106 INFO  [Log] Chrome browser started 
+2019-03-13 14:50:24,370 INFO  [Log] Navigating to URL 
+2019-03-13 14:50:24,370 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:56:33,148 INFO  [Log] Chrome browser started 
+2019-03-13 14:56:46,414 INFO  [Log] Navigating to URL 
+2019-03-13 14:56:46,414 INFO  [Log] Not able to navigate --- null 
+2019-03-13 14:59:18,887 INFO  [Log] Chrome browser started 
+2019-03-13 14:59:31,970 INFO  [Log] Navigating to URL 
+2019-03-13 14:59:31,970 INFO  [Log] Not able to navigate --- null 
+2019-03-13 15:03:44,316 INFO  [Log] Chrome browser started 
+2019-03-13 15:04:09,683 INFO  [Log] Navigating to URL 
+2019-03-13 15:04:09,753 INFO  [Log] Not able to navigate --- null 
+2019-03-13 15:05:32,798 INFO  [Log] Chrome browser started 
+2019-03-13 15:05:54,122 INFO  [Log] Navigating to URL 
+2019-03-13 15:07:53,086 INFO  [Log] Chrome browser started 
+2019-03-13 15:08:12,840 INFO  [Log] Navigating to URL 
+2019-03-13 15:31:14,708 INFO  [Log] Chrome browser started 
+2019-03-13 15:31:27,966 INFO  [Log] Navigating to URL 
+2019-03-13 15:31:27,968 INFO  [Log] Not able to navigate --- null 
+2019-03-13 15:35:01,445 INFO  [Log] Chrome browser started 
+2019-03-13 15:35:14,646 INFO  [Log] Navigating to URL 
+2019-03-13 16:02:07,528 INFO  [Log] Chrome browser started 
+2019-03-13 16:02:21,102 INFO  [Log] Navigating to URL 
+2019-03-13 16:02:21,102 INFO  [Log] Not able to navigate --- null 
+2019-03-13 16:03:09,007 INFO  [Log] Chrome browser started 
+2019-03-13 16:03:22,199 INFO  [Log] Navigating to URL 
+2019-03-13 16:03:55,771 INFO  [Log] Navigating to URL 
+2019-03-13 16:03:55,771 INFO  [Log] Not able to navigate --- null 
+2019-03-13 16:12:34,922 INFO  [Log] Chrome browser started 
+2019-03-13 16:12:48,199 INFO  [Log] Navigating to URL 
+2019-03-13 16:45:50,030 INFO  [Log] Chrome browser started 
+2019-03-13 16:46:03,184 INFO  [Log] Navigating to URL 
+2019-03-13 16:50:01,827 INFO  [Log] Chrome browser started 
+2019-03-13 16:50:14,996 INFO  [Log] Navigating to URL 
+2019-03-13 16:57:27,165 INFO  [Log] Chrome browser started 
+2019-03-13 16:57:40,397 INFO  [Log] Navigating to URL 
+2019-03-13 18:30:51,482 INFO  [Log] Chrome browser started 
+2019-03-13 18:31:05,234 INFO  [Log] Navigating to URL 
+2019-03-13 18:33:08,071 INFO  [Log] Chrome browser started 
+2019-03-13 18:34:54,573 INFO  [Log] Chrome browser started 
+2019-03-13 18:35:08,620 INFO  [Log] Navigating to URL 
+2019-03-13 18:35:35,271 INFO  [Log] Chrome browser started 
+2019-03-13 18:36:10,728 INFO  [Log] Navigating to URL 
+2019-03-13 18:39:27,567 INFO  [Log] Chrome browser started 
+2019-03-13 18:39:40,707 INFO  [Log] Navigating to URL 
+2019-03-13 19:09:26,165 INFO  [Log] Navigating to URL 
+2019-03-13 19:09:41,158 INFO  [Log] Chrome browser started 
+2019-03-13 19:20:15,910 INFO  [Log] Chrome browser started 
+2019-03-13 19:23:13,404 INFO  [Log] Chrome browser started 
+2019-03-13 19:28:29,943 INFO  [Log] Chrome browser started 
+2019-03-13 19:30:07,306 INFO  [Log] Navigating to URL 
+2019-03-14 11:12:02,950 INFO  [Log] Chrome browser started 
+2019-03-14 11:13:44,628 INFO  [Log] Chrome browser started 
+2019-03-14 11:14:59,051 INFO  [Log] Chrome browser started 
+2019-03-14 11:14:59,237 INFO  [Log] Navigating to URL 
+2019-03-14 11:15:51,030 INFO  [Log] Navigating to URL 
+2019-03-14 13:03:40,886 INFO  [Log] Chrome browser started 
+2019-03-14 13:04:34,489 INFO  [Log] Navigating to URL 
+2019-03-14 13:04:34,490 INFO  [Log] Not able to navigate --- null 
+2019-03-14 13:06:38,600 INFO  [Log] Chrome browser started 
+2019-03-14 13:09:10,770 INFO  [Log] Chrome browser started 
+2019-03-14 13:09:58,331 INFO  [Log] Navigating to URL 
+2019-03-14 13:09:58,332 INFO  [Log] Not able to navigate --- null 
+2019-03-14 13:11:08,819 INFO  [Log] Chrome browser started 
+2019-03-14 13:11:54,647 INFO  [Log] Navigating to URL 
+2019-03-14 13:11:54,648 INFO  [Log] Not able to navigate --- null 
+2019-03-14 13:13:32,504 INFO  [Log] Chrome browser started 
+2019-03-14 13:14:22,655 INFO  [Log] Navigating to URL 
+2019-03-14 13:14:22,656 INFO  [Log] Not able to navigate --- null 
+2019-03-14 13:17:46,989 INFO  [Log] Chrome browser started 
+2019-03-14 13:18:32,424 INFO  [Log] Navigating to URL 
+2019-03-14 13:18:32,424 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:10:03,997 INFO  [Log] Chrome browser started 
+2019-03-14 14:11:08,383 INFO  [Log] Navigating to URL 
+2019-03-14 14:11:08,384 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:13:13,817 INFO  [Log] Chrome browser started 
+2019-03-14 14:13:59,949 INFO  [Log] Navigating to URL 
+2019-03-14 14:13:59,950 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:31:42,243 INFO  [Log] Chrome browser started 
+2019-03-14 14:32:30,117 INFO  [Log] Navigating to URL 
+2019-03-14 14:32:30,117 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:34:19,277 INFO  [Log] Chrome browser started 
+2019-03-14 14:35:07,599 INFO  [Log] Navigating to URL 
+2019-03-14 14:35:07,599 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:36:55,636 INFO  [Log] Chrome browser started 
+2019-03-14 14:37:40,912 INFO  [Log] Navigating to URL 
+2019-03-14 14:37:40,913 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:38:46,507 INFO  [Log] Chrome browser started 
+2019-03-14 14:40:05,605 INFO  [Log] Chrome browser started 
+2019-03-14 14:45:52,349 INFO  [Log] Chrome browser started 
+2019-03-14 14:46:47,813 INFO  [Log] Navigating to URL 
+2019-03-14 14:46:47,814 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:47:43,605 INFO  [Log] Chrome browser started 
+2019-03-14 14:48:48,831 INFO  [Log] Chrome browser started 
+2019-03-14 14:52:19,997 INFO  [Log] Chrome browser started 
+2019-03-14 14:54:44,584 INFO  [Log] Chrome browser started 
+2019-03-14 14:55:35,646 INFO  [Log] Navigating to URL 
+2019-03-14 14:55:35,647 INFO  [Log] Not able to navigate --- null 
+2019-03-14 14:56:23,822 INFO  [Log] Chrome browser started 
+2019-03-14 15:08:04,632 INFO  [Log] Chrome browser started 
+2019-03-14 15:14:40,188 INFO  [Log] Chrome browser started 
+2019-03-14 15:17:24,859 INFO  [Log] Chrome browser started 
+2019-03-14 15:19:44,343 INFO  [Log] Chrome browser started 
+2019-03-14 15:22:01,494 INFO  [Log] Chrome browser started 
+2019-03-14 15:35:37,684 INFO  [Log] Chrome browser started 
+2019-03-14 15:50:11,395 INFO  [Log] Chrome browser started 
+2019-03-14 15:52:29,498 INFO  [Log] Chrome browser started 
+2019-03-14 15:53:57,531 INFO  [Log] Chrome browser started 
+2019-03-14 15:54:46,955 INFO  [Log] Navigating to URL 
+2019-03-14 15:54:46,955 INFO  [Log] Not able to navigate --- null 
+2019-03-14 15:55:24,311 INFO  [Log] Chrome browser started 
+2019-03-14 15:56:52,353 INFO  [Log] Chrome browser started 
+2019-03-14 16:03:06,592 INFO  [Log] Chrome browser started 
+2019-03-14 16:07:31,584 INFO  [Log] Chrome browser started 
+2019-03-14 17:49:57,316 INFO  [Log] Chrome browser started 
+2019-03-14 17:58:28,715 INFO  [Log] Chrome browser started 
+2019-03-14 19:35:59,746 INFO  [Log] Chrome browser started 
+2019-03-14 19:38:10,399 INFO  [Log] Chrome browser started 
+2019-03-14 19:42:12,991 INFO  [Log] Chrome browser started 
+2019-03-14 19:46:47,811 INFO  [Log] Chrome browser started 
+2019-03-15 10:32:55,130 INFO  [Log] Chrome browser started 
+2019-03-15 12:03:17,374 INFO  [Log] Chrome browser started 
+2019-03-15 12:13:27,712 INFO  [Log] Chrome browser started 
+2019-03-15 12:23:44,845 INFO  [Log] Chrome browser started 
+2019-03-15 12:25:23,135 INFO  [Log] Chrome browser started 
+2019-03-15 12:30:30,333 INFO  [Log] Chrome browser started 
+2019-03-15 12:34:08,881 INFO  [Log] Chrome browser started 
+2019-03-15 13:06:14,913 INFO  [Log] Chrome browser started 
+2019-03-15 14:33:08,229 INFO  [Log] Chrome browser started 
+2019-03-15 14:34:28,265 INFO  [Log] Chrome browser started 
+2019-03-15 14:43:11,950 INFO  [Log] Chrome browser started 
+2019-03-15 14:50:36,426 INFO  [Log] Chrome browser started 
+2019-03-15 14:54:40,859 INFO  [Log] Chrome browser started 
+2019-03-15 16:17:31,625 INFO  [Log] Chrome browser started 
+2019-03-15 16:22:44,911 INFO  [Log] Chrome browser started 
+2019-03-15 16:24:58,564 INFO  [Log] Chrome browser started 
+2019-03-15 16:29:05,228 INFO  [Log] Chrome browser started 
+2019-03-15 17:28:44,237 INFO  [Log] Chrome browser started 
+2019-03-15 17:32:19,849 INFO  [Log] Chrome browser started 
+2019-03-15 17:41:33,525 INFO  [Log] Chrome browser started 
+2019-03-15 17:43:32,964 INFO  [Log] Chrome browser started 
+2019-03-15 17:45:07,158 INFO  [Log] Chrome browser started 
+2019-03-15 17:46:36,461 INFO  [Log] Chrome browser started 
+2019-03-15 17:49:31,430 INFO  [Log] Chrome browser started 
+2019-03-15 17:51:14,266 INFO  [Log] Chrome browser started 
+2019-03-15 17:53:04,677 INFO  [Log] Chrome browser started 
+2019-03-15 17:54:52,661 INFO  [Log] Chrome browser started 
+2019-03-15 17:57:56,294 INFO  [Log] Chrome browser started 
+2019-03-15 18:06:55,259 INFO  [Log] Chrome browser started 
+2019-03-15 18:09:47,244 INFO  [Log] Chrome browser started 
+2019-03-15 18:11:40,040 INFO  [Log] Chrome browser started 
+2019-03-15 18:14:29,444 INFO  [Log] Chrome browser started 
+2019-03-15 18:17:32,243 INFO  [Log] Chrome browser started 
+2019-03-15 18:20:39,348 INFO  [Log] Chrome browser started 
+2019-03-26 13:56:03,845 INFO  [Log] Chrome browser started 
+2019-03-26 18:52:32,433 INFO  [Log] Chrome browser started 
+2019-03-27 18:47:55,389 INFO  [Log] Chrome browser started 
+2019-03-27 18:47:56,411 INFO  [Log] Navigating to URL 
+2019-03-27 18:48:53,223 INFO  [Log] Navigating to URL 
+2019-03-27 18:50:50,843 INFO  [Log] Navigating to URL 
+2019-03-27 18:50:56,983 INFO  [Log] Not able to navigate --- chrome not reachable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KDC1B-D-D0TJX52', ip: '10.223.158.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ANIRUD~1.MAJ\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 36a98df90e7b960679b610546f7aec19 
+2019-03-27 18:52:23,215 INFO  [Log] Chrome browser started 
+2019-03-28 18:54:20,035 INFO  [Log] Chrome browser started 
+2019-03-28 19:10:30,088 INFO  [Log] Chrome browser started 
+2019-03-29 11:52:02,920 INFO  [Log] Chrome browser started 
+2019-03-29 16:24:36,023 INFO  [Log] Chrome browser started 
+2019-03-29 16:56:07,136 INFO  [Log] Chrome browser started 
+2019-04-05 14:40:03,537 INFO  [Log] Chrome browser started 
+2019-04-08 16:58:18,769 INFO  [Log] Chrome browser started 
+2019-04-08 17:17:00,925 INFO  [Log] Chrome browser started 
+2019-04-08 17:25:29,211 INFO  [Log] Chrome browser started 
+2019-04-08 17:26:29,595 INFO  [Log] Chrome browser started 
+2019-04-08 17:28:43,217 INFO  [Log] Chrome browser started 
+2019-04-09 09:41:36,012 INFO  [Log] Chrome browser started 
+2019-04-09 09:44:12,934 INFO  [Log] Chrome browser started 
+2019-04-09 09:54:06,161 INFO  [Log] Chrome browser started 
+2019-04-09 09:55:32,949 INFO  [Log] Chrome browser started 
+2019-04-09 10:18:14,909 INFO  [Log] Chrome browser started 
+2019-04-09 10:19:44,207 INFO  [Log] Chrome browser started 
+2019-04-09 10:47:27,878 INFO  [Log] Chrome browser started 
+2019-04-09 10:48:55,544 INFO  [Log] Chrome browser started 
+2019-04-09 10:51:35,825 INFO  [Log] Chrome browser started 
+2019-04-09 10:53:55,874 INFO  [Log] Chrome browser started 
+2019-04-09 10:59:06,804 INFO  [Log] Chrome browser started 
+2019-04-09 11:00:42,939 INFO  [Log] Chrome browser started 
+2019-04-09 11:12:00,098 INFO  [Log] Chrome browser started 
+2019-04-09 13:56:23,435 INFO  [Log] Chrome browser started 
+2019-04-09 13:58:31,245 INFO  [Log] Chrome browser started 
+2019-04-09 16:24:18,064 INFO  [Log] Chrome browser started 
+2019-04-09 16:28:54,176 INFO  [Log] Chrome browser started 
+2019-04-09 16:35:57,653 INFO  [Log] Chrome browser started 
+2019-04-09 16:37:01,586 INFO  [Log] Chrome browser started 
+2019-04-09 16:39:30,919 INFO  [Log] Chrome browser started 
+2019-04-09 16:48:48,376 INFO  [Log] Chrome browser started 
+2019-04-09 16:52:24,001 INFO  [Log] Chrome browser started 
+2019-04-09 16:58:13,266 INFO  [Log] Chrome browser started 
+2019-04-09 17:05:04,348 INFO  [Log] Chrome browser started 
+2019-04-09 17:48:58,551 INFO  [Log] Chrome browser started 
+2019-04-09 17:50:57,832 INFO  [Log] Chrome browser started 
+2019-04-09 17:54:33,584 INFO  [Log] Chrome browser started 
+2019-04-09 17:55:51,237 INFO  [Log] Chrome browser started 
+2019-04-09 18:05:26,783 INFO  [Log] Chrome browser started 
+2019-04-09 18:09:59,692 INFO  [Log] Chrome browser started 
+2019-04-10 09:38:35,310 INFO  [Log] Chrome browser started 
+2019-04-10 10:27:38,072 INFO  [Log] Chrome browser started 
+2019-04-10 10:30:51,374 INFO  [Log] Chrome browser started 
+2019-04-10 13:17:34,580 INFO  [Log] Chrome browser started 
+2019-04-10 13:42:31,376 INFO  [Log] Chrome browser started 
+2019-04-12 12:59:32,732 INFO  [Log] Chrome browser started 
+2019-04-12 14:09:33,929 INFO  [Log] Chrome browser started 
+2019-04-12 15:35:28,641 INFO  [Log] Chrome browser started 
+2019-04-12 15:41:05,041 INFO  [Log] Chrome browser started 
+2019-04-12 16:41:27,710 INFO  [Log] Chrome browser started 
+2019-04-12 16:43:10,947 INFO  [Log] Chrome browser started 
+2019-04-12 16:44:13,524 INFO  [Log] Chrome browser started 
+2019-04-12 16:45:11,717 INFO  [Log] Chrome browser started 
+2019-04-12 16:46:44,913 INFO  [Log] Chrome browser started 
+2019-04-12 17:36:32,199 INFO  [Log] Chrome browser started 
+2019-04-12 17:46:30,601 INFO  [Log] Chrome browser started 
+2019-04-24 18:14:33,474 INFO  [Log] Chrome browser started 
+2019-04-24 18:19:31,751 INFO  [Log] Chrome browser started 
+2019-04-24 18:21:04,619 INFO  [Log] Chrome browser started 
+2019-04-24 18:28:55,312 INFO  [Log] Chrome browser started 
+2019-04-24 18:32:35,525 INFO  [Log] Chrome browser started 
